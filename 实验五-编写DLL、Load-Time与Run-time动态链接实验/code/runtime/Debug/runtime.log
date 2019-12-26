@@ -1,0 +1,3 @@
+﻿  runtime.c
+c:\users\pc\desktop\project2\runtime\runtime.c(24): warning C4020: “ProcAdd”: 实参太多
+  runtime.vcxproj -> C:\Users\PC\Desktop\Project2\Debug\runtime.exe

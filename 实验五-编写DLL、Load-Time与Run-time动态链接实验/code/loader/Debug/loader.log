@@ -1,0 +1,20 @@
+﻿  loader.c
+c:\users\pc\desktop\project2\loader\loader.c(4): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+c:\users\pc\desktop\project2\loader\loader.c(4): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+c:\users\pc\desktop\project2\loader\loader.c(4): error C2059: 语法错误:“)”
+c:\users\pc\desktop\project2\loader\loader.c(8): warning C4013: “MessageBox”未定义；假设外部返回 int
+c:\users\pc\desktop\project2\loader\loader.c(9): error C2065: “HMODULE”: 未声明的标识符
+c:\users\pc\desktop\project2\loader\loader.c(9): error C2146: 语法错误: 缺少“;”(在标识符“hBaselib”的前面)
+c:\users\pc\desktop\project2\loader\loader.c(9): error C2065: “hBaselib”: 未声明的标识符
+c:\users\pc\desktop\project2\loader\loader.c(9): warning C4013: “LoadLibrary”未定义；假设外部返回 int
+c:\users\pc\desktop\project2\loader\loader.c(11): error C2065: “hBaselib”: 未声明的标识符
+c:\users\pc\desktop\project2\loader\loader.c(11): warning C4047: “==”:“int”与“void *”的间接级别不同
+c:\users\pc\desktop\project2\loader\loader.c(14): error C2146: 语法错误: 缺少“;”(在标识符“func”的前面)
+c:\users\pc\desktop\project2\loader\loader.c(14): warning C4550: 表达式计算为缺少参数列表的函数
+c:\users\pc\desktop\project2\loader\loader.c(14): error C2065: “func”: 未声明的标识符
+c:\users\pc\desktop\project2\loader\loader.c(14): warning C4047: “=”:“int”与“int *(__cdecl *)(char *)”的间接级别不同
+c:\users\pc\desktop\project2\loader\loader.c(14): error C2146: 语法错误: 缺少“;”(在标识符“GetProcAddress”的前面)
+c:\users\pc\desktop\project2\loader\loader.c(14): warning C4013: “GetProcAddress”未定义；假设外部返回 int
+c:\users\pc\desktop\project2\loader\loader.c(14): error C2065: “hBaselib”: 未声明的标识符
+c:\users\pc\desktop\project2\loader\loader.c(15): warning C4013: “func”未定义；假设外部返回 int
+c:\users\pc\desktop\project2\loader\loader.c(16): warning C4013: “system”未定义；假设外部返回 int
