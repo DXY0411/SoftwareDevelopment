@@ -1,0 +1,4 @@
+﻿  base.c
+    正在创建库 C:\Users\PC\Desktop\Project2\Debug\base.lib 和对象 C:\Users\PC\Desktop\Project2\Debug\base.exp
+base.exp : warning LNK4070: .EXP 中的 /OUT:baselib.dll 指令与输出文件名“C:\Users\PC\Desktop\Project2\Debug\base.dll”不同；忽略指令
+  base.vcxproj -> C:\Users\PC\Desktop\Project2\Debug\base.dll
