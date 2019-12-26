@@ -1,0 +1,4 @@
+﻿  dllhook.c
+c:\users\pc\desktop\project1\dllhook\dllhook.c(9): warning C4101: “hProcess”: 未引用的局部变量
+c:\users\pc\desktop\project1\dllhook\dllhook.c(11): warning C4101: “dwPriorityClass”: 未引用的局部变量
+  DllHook.vcxproj -> C:\Users\PC\Desktop\Project1\Debug\DllHook.exe

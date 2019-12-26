@@ -1,0 +1,17 @@
+﻿cl : 命令行 warning D9025: 正在重写“/sdl”(用“/GS-”)
+  IATHook.c
+  hook.c
+c:\users\pc\desktop\project1\hook\hook.c(28): warning C4133: “函数”: 从“wchar_t *”到“const char *”的类型不兼容
+c:\users\pc\desktop\project1\hook\hook.c(28): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\pc\desktop\project1\hook\hook.c(30): warning C4133: “函数”: 从“wchar_t *”到“const char *”的类型不兼容
+c:\users\pc\desktop\project1\hook\hook.c(30): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\pc\desktop\project1\hook\hook.c(38): warning C4047: “函数”:“DWORD”与“void *”的间接级别不同
+c:\users\pc\desktop\project1\hook\hook.c(38): warning C4024: “WideCharToMultiByte”: 形参和实参 2 的类型不同
+c:\users\pc\desktop\project1\hook\hook.c(26): warning C4090: “初始化”: 不同的“const”限定符
+c:\users\pc\desktop\project1\hook\hook.c(54): warning C4047: “函数”:“DWORD”与“void *”的间接级别不同
+c:\users\pc\desktop\project1\hook\hook.c(54): warning C4024: “CreateFileA”: 形参和实参 6 的类型不同
+c:\users\pc\desktop\project1\hook\hook.c(65): warning C4047: “函数”:“DWORD”与“void *”的间接级别不同
+c:\users\pc\desktop\project1\hook\hook.c(65): warning C4024: “CreateFileA”: 形参和实参 6 的类型不同
+  正在生成代码...
+    正在创建库 C:\Users\PC\Desktop\Project1\Debug\hook.lib 和对象 C:\Users\PC\Desktop\Project1\Debug\hook.exp
+  hook.vcxproj -> C:\Users\PC\Desktop\Project1\Debug\hook.dll
